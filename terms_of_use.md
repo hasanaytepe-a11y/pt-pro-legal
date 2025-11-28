@@ -22,7 +22,7 @@ PT Pro yalnızca koçluk ve egzersiz yönetimi amaçlı kullanılmalıdır.
 Uygulamayı kullanabilmek için bir hesap oluşturmanız gerekir.
 
 Kullanıcı:
-•	Hesabındaki bilgilerin doğruluğundan,
+•Hesabındaki bilgilerin doğruluğundan,
 •	Giriş şifresinin gizliliğinden,
 •	Hesabın üçüncü kişilerce kullanılmamasından
 
@@ -63,7 +63,7 @@ Kullanıcı sorumlulukları:
 •	Cihaz kaybı
 •	Lokal depolamada saklanan görsellerin kaybedilmesi
 •	Yanlış veri girişi
-•	Hesabın başkalarıyla paylaşılması
+• Hesabın başkalarıyla paylaşılması
 
 PT Pro bu tür durumlarda sorumluluk kabul etmez.
 
