@@ -23,8 +23,8 @@ Uygulamayı kullanabilmek için bir hesap oluşturmanız gerekir.
 
 Kullanıcı:
 •Hesabındaki bilgilerin doğruluğundan,
-•	Giriş şifresinin gizliliğinden,
-•	Hesabın üçüncü kişilerce kullanılmamasından
+•Giriş şifresinin gizliliğinden,
+• Hesabın üçüncü kişilerce kullanılmamasından
 
 sorumludur.
 PT Pro kayıp şifrelerde yalnızca parola sıfırlama bağlantısı sağlayabilir.
